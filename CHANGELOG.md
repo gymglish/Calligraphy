@@ -1,5 +1,8 @@
 # Changelog
 
+## 3.1.2 (23/10/2019)
+- Fixed crash in webview
+
 ## 3.1.1 (16/04/2019)
 - Use custom reflection utils rather than depend on ViewPump internals
 - Added support for loading a font from an absolute path
