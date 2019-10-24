@@ -17,7 +17,7 @@ Include the dependency [Download (.aar)](http://search.maven.org/remotecontent?f
 
 ```groovy
 dependencies {
-    implementation 'io.github.inflationx:calligraphy3:3.1.1'
+    implementation 'io.github.inflationx:calligraphy3:3.1.2'
     implementation 'io.github.inflationx:viewpump:2.0.3'
 }
 ```
